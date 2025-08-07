@@ -9,6 +9,6 @@ Verification classes were also added, and I joined the form and the table on one
 
 The two Bootstrap buttons with utility classes are visible on the home page (index.html) below the circle profile image. The circular image is below the main image of a cube image I picked. I used the img-fluid class and placed it into a fluid container. If you toggle from tablet view and phone view, you will see the button disappear, while the other is visible on all screens. 
 
-The navigation bar has home, about, and contact sections. The navbar collapses into a hamburger menu in tablet and phone screen views. 
+The navigation bar has home, about, and contact sections. The navbar collapses into a hamburger menu in tablet and phone screen views. The navbar includes the hover effect as well.
 
 The pages seem to be responsive except for this glitch box in the right corner, at the bottom of the contact page, in the phone/ mobile view.
