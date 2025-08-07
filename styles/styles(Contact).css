@@ -1,0 +1,40 @@
+body{
+    background-color: #001936;
+}
+
+h2{
+    margin-top: center;
+    text-align: center;
+    font-family: monospace;
+}
+
+p {
+    font-family: monospace;
+}
+
+.contact-form {
+    width: 50%;
+    margin:auto;
+    margin-top: 50px;
+    background: #FB2C68;
+    padding: 18px;
+    border-radius: 25px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+
+/* MEDIA SCREEN FOR TABLETS*/
+@media only screen and (max-width: 768px) {
+    body {
+      grid-template-columns: 1fr 1fr 1fr;
+    }
+
+}
+
+/* MEDIA SCREEN FOR PHONES*/
+@media only screen and (max-width: 468px) {
+    body {
+        grid-template-columns: 1fr;
+    }
+   
+}
